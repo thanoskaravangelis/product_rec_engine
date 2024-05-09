@@ -17,8 +17,8 @@ This project implements a recommendation engine for an e-commerce platform using
 1. **Clone the Repository**:
 
 ```bash
-git clone <repository_url>
-cd retailrocket-recommendation-engine
+git clone https://github.com/thanoskaravangelis/product_rec_engine
+cd product_rec_engine
 ```
 
 2.  **Install dependencies**
