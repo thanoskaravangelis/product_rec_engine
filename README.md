@@ -76,11 +76,11 @@ Request Body:
 {
     "user_ids": [12345, 67890],
     "n_recommendations": 5
-}```
+}
+```
 Response:
 
 ```json
-
 {
     "recommendations": [
         {"user_id": 12345, "recommended_items": [67890, 54321, 12345, 98765, 23456]},
